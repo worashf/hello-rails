@@ -1,24 +1,16 @@
-# README
+# hello-rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is created to learn how to create rails project with PostgreSQL database setup.
 
-Things you may want to cover:
+# Built with
 
-* Ruby version
+1. Rails 7.0.4
+2. Ruby 3.1.2
+3. PostgreSQL
 
-* System dependencies
+# Setup and run
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1.  clone https://github.com/worashf/hello-rails
+2.  cd hello-rails
+3.  run 'rails server'
+4.  check on browser 'http://127.0.0.1:3000/
